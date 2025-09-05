@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+face-recognition
+streamlit-webrtc
+pyttsx3
+numpy
